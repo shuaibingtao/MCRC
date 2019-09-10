@@ -9,4 +9,4 @@ In current code, there are two different options:
 (min_cut_max_flow_example.m)
 Although both methods are called graph cut, they are very different methods. 
 
-If you find the algorithm interesting, then please cite this paper: [A graph cut approach to 3D tree delineation, using integrated airborne LiDAR and hyperspectral imagery](https://arxiv.org/pdf/1701.06715.pdf)
+Thanks to this paper: A graph cut approach to 3D tree delineation, using integrated airborne LiDAR and hyperspectral imagery.
